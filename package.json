@@ -2,14 +2,14 @@
   "name": "dbf-parser",
   "version": "0.0.1",
   "description": "An efficient dBase DBF file parser written in pure JavaScript",
-  "main": "./index.js",
+  "main": "./mydbf-parser.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/tamtakoe/node-dbf.git"
+    "url": "git://github.com/julianbeggs/node-dbf.git"
   },
   "keywords": [
     "dBase",
     "dbf"
   ],
-  "author": "tamtakoe <tamtakoe@gmail.com>"
+  "author": "Julian Beggs <julianbeggs@gmail.com>"
 }
