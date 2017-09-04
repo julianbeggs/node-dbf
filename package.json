@@ -1,15 +1,24 @@
 {
-  "name": "dbf-parser",
-  "version": "0.0.1",
-  "description": "An efficient dBase DBF file parser written in pure JavaScript",
-  "main": "./mydbf-parser.js",
+  "name": "mydbf-parser",
+  "version": "1.0.0",
+  "description": "This is an event-based dBase file parser for very efficiently reading data from *.dbf files.",
+  "main": "mydbf-parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
-    "url": "git://github.com/julianbeggs/node-dbf.git"
+    "url": "git+https://github.com/julianbeggs/node-dbf.git"
   },
   "keywords": [
-    "dBase",
-    "dbf"
+    "dbf",
+    "dbase",
+    "parser"
   ],
-  "author": "Julian Beggs <julianbeggs@gmail.com>"
+  "author": "Julian Beggs <julianbeggs@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julianbeggs/node-dbf/issues"
+  },
+  "homepage": "https://github.com/julianbeggs/node-dbf#readme"
 }
