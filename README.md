@@ -5,6 +5,7 @@ This is an event-based dBase file parser for very efficiently reading data from 
 
 mydbf-parser based on https://github.com/tamtakoe/node-dbf
 with extra work to add support for several field types:
+
   Memo field
   Timestamp
   Date field
